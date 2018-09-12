@@ -1,7 +1,7 @@
 # Trabajo_Practico_APY2_TP1
 Trabajo practico de algoritmos y programacion 2. 
 
-##Decisiones de diseño
+## Decisiones de diseño
 
 ConsolaDeJuego: Clase concreta que se encarga de iniciar una nueva partida, la cual recibe los nombres de los jugadores, el/los tipo/s de los monstruos y se encarga de enviar las ordenes a los monstruos para que peleen.
 
