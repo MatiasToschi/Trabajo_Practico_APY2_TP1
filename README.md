@@ -1,5 +1,5 @@
 # Trabajo_Practico_APY2_TP1
-Trabajo practico de algoritmos y programacion 2. 
+Trabajo practico Nro 1º de algoritmos y programacion 2 UNTREF 2018 [Batalla de monstruos]
 
 ## Para poder ejecutarlo
 
